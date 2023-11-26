@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "Users": [
+    {
+      "Name": "Purvesh",
+      "Email": "123pk@gmail.com",
+      "Mobile": 1234567890,
+      "Age": 22,
+      "id": 1
+    },
+    {
+      "Name": "Krupesh",
+      "Email": "123km@gmail.com",
+      "Mobile": 123456789,
+      "Age": 23,
+      "id": 2
+    },
+    {
+      "Name": "Chirag",
+      "Email": "123cg@gmail.com",
+      "Mobile": 2345678901,
+      "Age": 24,
+      "id": 3
+    },
+    {
+      "Name": "anan dedhiy",
+      "Email": "123an@gmail.com",
+      "Mobile": 3456789012,
+      "Age": 23,
+      "id": 4
+    },
+    {
+      "Name": "Purvesh",
+      "Email": "123@yahoo.com",
+      "Mobile": 1234567899,
+      "Age": 35,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
